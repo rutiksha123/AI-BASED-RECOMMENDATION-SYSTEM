@@ -23,5 +23,4 @@ In conclusion, this java program application utilizes Apache Mahout to demonstra
 
 # OUTPUT
 
-
-
+![Image](https://github.com/user-attachments/assets/9a174e56-8b65-4546-9595-d0b67035a222)
